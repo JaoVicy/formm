@@ -1,0 +1,13 @@
+div, header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin: 0;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+}
