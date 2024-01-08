@@ -2,12 +2,21 @@ div, header {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 5px;
     margin-top: 20px;
     margin: 0;
+    background-color: rgb(233, 202, 162);
 }
 
+input{
+    margin-right: 5px;
+}
 
 ul {
     list-style: none;
     padding: 0;
+}
+
+li{
+    padding: 5px;
 }
